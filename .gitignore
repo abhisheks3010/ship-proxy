@@ -1,0 +1,14 @@
+
+# Ignore Maven build output
+target/
+
+# Ignore IntelliJ IDEA files
+.idea/
+*.iml
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Logs
+*.log
