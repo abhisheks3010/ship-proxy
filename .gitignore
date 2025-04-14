@@ -1,14 +1,20 @@
+# Maven
+/target/
+/**/target/
 
-# Ignore Maven build output
-target/
-
-# Ignore IntelliJ IDEA files
+# IntelliJ
 .idea/
 *.iml
 
-# Ignore Mac/Windows system files
+# Logs
+*.log
+
+# OS
 .DS_Store
 Thumbs.db
 
-# Ignore Logs
-*.log
+# Environment
+.env
+
+# JAR Files
+*.jar
